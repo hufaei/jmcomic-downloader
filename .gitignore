@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 本地任务与生成内容
+config.toml
+download/
+*.apng
+*.jpg
+*.jpeg
+*.png
+*.webp
